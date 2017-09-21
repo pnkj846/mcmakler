@@ -1,0 +1,2 @@
+[17-Sep-2017 20:43:11 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bsitsolutions/public_html/enquiryForm/mcmakler/application/controllers/Test.php on line 26
+[17-Sep-2017 21:11:07 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/bsitsolutions/public_html/enquiryForm/mcmakler/application/controllers/Test.php on line 31
